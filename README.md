@@ -2,7 +2,7 @@ StudioComplete
 
 The complete studio software revolution.
 
-Control, POS, CRM, native App, Push Notifications, Customer Sign Ups/Sign ins, Online Reservations, Status Screen, Self-Order-Kiosk, automated Upselling and much more... 
+Control, POS, CRM, native App, Push Notifications, Customer Sign ups/Sign ins, Online Reservations, Status Screen, Self-Order-Kiosk, automated Upselling and much more... 
 
 Sonnenstudio, Kosmetikstudio, Massagestudio, Wellness, Solarium
 
