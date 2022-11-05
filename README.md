@@ -13,3 +13,6 @@ Sonnenstudio, Kosmetikstudio, Massagestudio, Wellness, Solarium
 - Datenbank-Engine: MySQL oder MariaDB
 - Programmiersprache: C++
 - Framework: keines
+
+
+![grafik](https://user-images.githubusercontent.com/117327928/200114836-0c7a6a03-5f62-42bc-920a-44769f40f165.png)
